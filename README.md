@@ -1,2 +1,2 @@
 # IGN_ratings
-An analysis of a dataset of IGN video game rating scores, uploaded by a reddit user. 
+An analysis of a dataset containing IGN video game rating scores, uploaded by a reddit user. The full dataset can be found at https://www.reddit.com/r/datasets/comments/2awdgx/i_made_this_dataset_of_all_of_igns_game_reviews/. In this exploration, I visually summarize the data and make it easier to analyze certain aspects of the data (for instance, by organizing different developers into groups and defin
